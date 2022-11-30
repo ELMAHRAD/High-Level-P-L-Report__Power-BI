@@ -1,0 +1,42 @@
+StoreID,StoreType,StoreSize,StoreLocation
+16,STORETYPE:CORE,57197sqft,Vermont; USADivision
+7,,70713sqft,Wyoming; USADivision
+17,,93188sqft,Wisconsin; USADivision
+29,,93638sqft,Nebraska; USADivision
+35,,103681sqft,Nevada; USADivision
+12,,112238sqft,Oklahoma; USADivision
+23,,114533sqft,Michigan; USADivision
+22,,119557sqft,Pennsylvania; USADivision
+18,,120653sqft,Oregon; USADivision
+15,,123737sqft,Colorado; USADivision
+9,,125833sqft,New Mexico; USADivision
+10,,126512sqft,Texas; USADivision
+25,,128107sqft,South Dakota; USADivision
+21,,140167sqft,Delaware; USADivision
+1,,151315sqft,Kansas; USADivision
+26,,152513sqft,Montana; USADivision
+8,,155078sqft,New Jersey; USADivision
+40,,155083sqft,New Hampshire; USADivision
+34,,158114sqft,Illinois; USADivision
+39,,184109sqft,Arkansas; USADivision
+14,,200898sqft,Indiana; USADivision
+2,,202307sqft,Maryland; USADivision
+6,,202505sqft,Arizona; USADivision
+32,,203007sqft,Iowa; USADivision
+20,,203742sqft,Connecticut; USADivision
+31,,203750sqft,Missouri; USADivision
+19,,203819sqft,New York; USADivision
+24,,203819sqft,Utah; USADivision
+27,STORETYPE:DIGITAL,204184sqft,USA Division; Rhode Island
+4,,205863sqft,USA Division; West Virginia
+28,,206302sqft,USA Division; California
+11,,207499sqft,USA Division; Louisiana
+13,,219622sqft,USA Division; Washington
+5,STORETYPE:LOCAL,34875sqft,Tennessee; USADivision
+3,,37392sqft,Mississippi; USADivision
+33,,39690sqft,Florida; USADivision
+38,,39690sqft,North Carolina; USADivision
+36,,39910sqft,Alabama; USADivision
+37,,39910sqft,South Carolina; USADivision
+30,,42988sqft,Virginia; USADivision
+99,STORETYPE:OPS,,
